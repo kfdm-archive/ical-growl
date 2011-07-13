@@ -16,6 +16,11 @@ Uninstall
 ---------
 Run `rake uninstall`
 
+
+Alternate Setup
+---------
+Run `rake search` and the script will attempt to find your default email address and insert that into the applescript. You can then install as usual.
+
 References
 ----------
 http://hints.macworld.com/article.php?story=20060730183408381
